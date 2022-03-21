@@ -4,7 +4,7 @@ We developed the course in consultation with some of our alumni in the data scie
 
 The responses were largely a combination of recommendations about best coding practices and soft skills. Notably absent was any emphasis on particular data analysis techniques. It may seem less exciting to focus on things like unit testing and version control, rather than, say, variational auto encoders, but this is the guidance we have and it makes sense; they are pointing us to foundational aspects of research productivity. 
 
-Course requirements and Syllabus can be found at: https://ucdavis.github.io/DS4S/
+Course requirements and Syllabus can be found at: https://canvas.ucdavis.edu/courses/670984
 
 Lessons on Modularity and Testing are based on Adam Rupe's excellent lessons on Scientific Programming in Python https://github.com/adamrupe/Scientific-Python-Tutorials
 
