@@ -1,3 +1,5 @@
+This is my second commit.
+
 HIP,HD,ra (deg),dec (deg),V mag,Mv =V + 5log(parallax in mas) -10,parallax in mas,std error on parallax,relative precision of distance,total proper motion (mas/yr),pm in ra (mas/yr),pm in dec (mas/yr),transverse velocity,in CNS3,Name
 70890,,217.449,-62.681,11.01,15.45,772.33,2.42,0.003,3852.99,-3775.64,768.16,23.65,*,alpha_Cen_C
 71681,128621,219.914,-60.839,1.35,5.7,742.12,1.4,0.002,3724.12,-3600.35,952.11,23.79,*,alpha^2_Cen
